@@ -1,4 +1,4 @@
-# PointNet: "Object Classification,Semantic Segmentation and Part Segmentation for 3D Point Clouds"
+# PointNet: "Object Classification, Semantic Segmentation and Part Segmentation for 3D Point Clouds"
 This is PyTorch implementation for the training and testing of the PointNet: a unified Deep Neural Network to carry out object classification, semantic segmentation and part segmentation on 3D Point Clouds.
 
 This project aims to implement the PointNet architecture and conduct an in-depth study on it. The object classification, semantic
