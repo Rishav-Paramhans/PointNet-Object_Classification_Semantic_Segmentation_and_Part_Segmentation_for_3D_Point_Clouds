@@ -15,6 +15,10 @@ An ablation study on the PointNet part segmentation network shows that the modul
 
 A detailed report of the project can be found in the assests.
 
+
+# Results
+<img width="765" alt="performanceobjcls" src="https://user-images.githubusercontent.com/65668108/203984481-43a3295b-f6ef-4043-b48b-5af573628fb0.png">
+
 # Datasets
 3D Object Classification: ModelNet40, ScanObjectNN
 3D Semantic Segmentation: Stanford 3D Indoor Scene Dataset (S3DIS)
