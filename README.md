@@ -17,7 +17,10 @@ A detailed report of the project can be found in the assests.
 
 
 # Results
-<img width="500" alt="performanceobjcls" src="https://user-images.githubusercontent.com/65668108/203984481-43a3295b-f6ef-4043-b48b-5af573628fb0.png">
+![PSFigure_1](https://user-images.githubusercontent.com/65668108/203985250-840ed0a7-2374-46dc-9d5b-d2c1459614d9.png)
+![PSFigure_5](https://user-images.githubusercontent.com/65668108/203985321-09aaa987-6d45-4eb3-a40b-0026e83e180b.png)
+![PSFigure_10](https://user-images.githubusercontent.com/65668108/203985349-61d4b3b0-95bd-4a47-8b6e-dddd7963bebf.png)
+![SSFigure5a](https://user-images.githubusercontent.com/65668108/203985392-cf66f8d6-4dc4-4f1a-aeb4-f8fe7dad1b71.png)
 
 # Datasets
 3D Object Classification: ModelNet40, ScanObjectNN
