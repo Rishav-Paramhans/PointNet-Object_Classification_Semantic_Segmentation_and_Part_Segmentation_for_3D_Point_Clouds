@@ -26,9 +26,9 @@ Here's some of the qualitative results from the experiments. Detailed quantitati
 
 ## Datasets
 Here's the list of datasets used in this project.
-3D Object Classification: ModelNet40, ScanObjectNN
-3D Semantic Segmentation: Stanford 3D Indoor Scene Dataset (S3DIS)
-3D Part Segmentation: Shapenet, Shapenet-C
+* 3D Object Classification: ModelNet40, ScanObjectNN
+* 3D Semantic Segmentation: Stanford 3D Indoor Scene Dataset (S3DIS)
+* 3D Part Segmentation: Shapenet, Shapenet-C
 
 ## Setup
 
